@@ -1,6 +1,8 @@
 # To Do List
 A simple web application that allows users to manage their tasks by adding, deleting  them. The application is built using React and communicates with a local server to store task data.
 
+Link - https://to-do-list-011.netlify.app/
+Server-http://localhost:8000/tasks
 ## Features
 - View a list of tasks with titles and additional information.
 - Add new tasks with a title and optional additional information.
